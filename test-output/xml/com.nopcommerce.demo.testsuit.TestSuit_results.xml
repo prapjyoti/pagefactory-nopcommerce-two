@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TopMenu Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="58.025">
+  <properties />
+  
+  
+            <testcase name="verifyProductArrangeInAlphaBaticalOrder" time="8.521" classname="com.nopcommerce.demo.testsuit.TestSuit" />
+                <testcase name="verifyProductAddedToShoppingCartSuccessfully" time="49.504" classname="com.nopcommerce.demo.testsuit.TestSuit" />
+      
+</testsuite>

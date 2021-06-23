@@ -1,0 +1,44 @@
+2021-06-22 16:06:660 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-22 16:06:554 INFO  HomePage :36 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (82c6846d411616d72207848d33d07032)] -> link text: Desktops]
+2021-06-22 16:06:130 INFO  HomePage :43 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (82c6846d411616d72207848d33d07032)] -> xpath: //select[@id='products-orderby']]
+2021-06-22 17:06:881 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-22 17:06:394 INFO  HomePage :36 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5d83eb5e480674e1f0f88bb3efa2ecc1)] -> link text: Desktops]
+2021-06-22 17:06:822 INFO  HomePage :43 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (5d83eb5e480674e1f0f88bb3efa2ecc1)] -> xpath: //select[@id='products-orderby']]
+2021-06-22 17:06:777 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-22 17:06:100 INFO  HomePage :36 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (72170319de07620b5e3ef65a67f4e342)] -> link text: Desktops]
+2021-06-22 17:06:501 INFO  HomePage :43 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (72170319de07620b5e3ef65a67f4e342)] -> xpath: //select[@id='products-orderby']]
+2021-06-22 17:06:230 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-22 17:06:428 INFO  HomePage :36 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (b00aff4739b0808120b7617e29394831)] -> link text: Desktops]
+2021-06-22 17:06:817 INFO  HomePage :43 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (b00aff4739b0808120b7617e29394831)] -> xpath: //select[@id='products-orderby']]
+2021-06-22 17:06:70 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-22 17:06:958 INFO  HomePage :36 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (9ee6be2dc33c1f6fd0877629740cd521)] -> link text: Desktops]
+2021-06-22 17:06:400 INFO  HomePage :43 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (9ee6be2dc33c1f6fd0877629740cd521)] -> xpath: //select[@id='products-orderby']]
+2021-06-22 17:06:451 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-22 17:06:875 INFO  HomePage :36 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e312091b3bfa8bf1e3a27e03a77d402b)] -> link text: Desktops]
+2021-06-22 17:06:282 INFO  HomePage :43 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (e312091b3bfa8bf1e3a27e03a77d402b)] -> xpath: //select[@id='products-orderby']]
+2021-06-22 21:06:158 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-22 21:06:615 INFO  HomePage :36 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5060a1642ff34f3f5dd1d2aa6e2cb434)] -> link text: Desktops]
+2021-06-22 21:06:332 INFO  HomePage :43 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (5060a1642ff34f3f5dd1d2aa6e2cb434)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 13:06:496 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-23 13:06:793 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (98cd527dbad4640080c23386a3557681)] -> link text: Desktops]
+2021-06-23 13:06:532 INFO  HomePage :46 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (98cd527dbad4640080c23386a3557681)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 13:06:689 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-23 13:06:123 INFO  HomePage :39 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (0365d39fa66475cbde20485bd8078824)] -> link text: Desktops]
+2021-06-23 13:06:513 INFO  HomePage :46 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (0365d39fa66475cbde20485bd8078824)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 13:06:48 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-23 13:06:16 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (73b399529b5010ab634b499d2b83fc95)] -> link text: Desktops]
+2021-06-23 13:06:451 INFO  HomePage :47 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (73b399529b5010ab634b499d2b83fc95)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 13:06:938 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-23 13:06:576 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (d24a62abab575e4bf42197d16286bc4c)] -> link text: Desktops]
+2021-06-23 13:06:990 INFO  HomePage :47 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (d24a62abab575e4bf42197d16286bc4c)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 13:06:554 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-23 13:06:667 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1d4790f73da69fbc46e3b70a180d876a)] -> link text: Desktops]
+2021-06-23 13:06:67 INFO  HomePage :47 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (1d4790f73da69fbc46e3b70a180d876a)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 15:06:575 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-23 15:06:923 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (79f5e6d4c9522e560f72df72ba6b025b)] -> link text: Desktops]
+2021-06-23 15:06:363 INFO  HomePage :47 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (79f5e6d4c9522e560f72df72ba6b025b)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 15:06:427 INFO  HomePage :51 - verify Arrange Product on Z to A order: [[[ChromeDriver: chrome on WINDOWS (79f5e6d4c9522e560f72df72ba6b025b)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (79f5e6d4c9522e560f72df72ba6b025b)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (79f5e6d4c9522e560f72df72ba6b025b)] -> xpath: //h2[@class='product-title']]]
+2021-06-23 15:06:294 INFO  BasePage :30 - Launching Chrome Browser 
+2021-06-23 15:06:234 INFO  HomePage :40 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8e9c8ec6ab336210b45f22856ba66d51)] -> link text: Desktops]
+2021-06-23 15:06:685 INFO  HomePage :47 - select position from drop down: [[ChromeDriver: chrome on WINDOWS (8e9c8ec6ab336210b45f22856ba66d51)] -> xpath: //select[@id='products-orderby']]
+2021-06-23 15:06:751 INFO  HomePage :51 - verify Arrange Product on Z to A order: [[[ChromeDriver: chrome on WINDOWS (8e9c8ec6ab336210b45f22856ba66d51)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (8e9c8ec6ab336210b45f22856ba66d51)] -> xpath: //h2[@class='product-title']], [[ChromeDriver: chrome on WINDOWS (8e9c8ec6ab336210b45f22856ba66d51)] -> xpath: //h2[@class='product-title']]]
